@@ -23,7 +23,7 @@ A second-year Computer Science student specializing in Data Science at the Cambo
 ![](https://nirzak-streak-stats.vercel.app/?user=PichSereyVathanak&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PichSereyVathanak&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=PichSereyVathanak&color=ff69b4&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=PichSereyVathanak&color=blue&style=for-the-badge)
 
 </td>
   </tr>
