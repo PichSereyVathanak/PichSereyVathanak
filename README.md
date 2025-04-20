@@ -1,4 +1,4 @@
-# Hi! I'am Pichsereyvathanak
+![image](https://github.com/user-attachments/assets/9074bc22-c239-41cf-aa39-f7e558e0e3b2)# Hi! I'am Pichsereyvathanak
 
 a second-year Computer Science student specializing in Data Science at the Cambodia Academy of Digital Technology (CADT). I'm passionate about applying data-driven solutions to challenges in healthcare and education.
 
@@ -10,7 +10,6 @@ a second-year Computer Science student specializing in Data Science at the Cambo
 ![](https://nirzak-streak-stats.vercel.app/?user=PichSereyVathanak&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PichSereyVathanak&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=PichSereyVathanak&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center"><img src="https://i.pinimg.com/736x/39/73/cd/3973cdb5a500e386f7e6300576f2626b.jpg" alt="picture"/></div>
+![](https://komarev.com/ghpvc/?username=PichSereyVathanak&color=blue&style=for-the-badge)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
