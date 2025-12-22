@@ -7,7 +7,7 @@
 
 # Hi! I'am Pichsereyvathanak
 
-A second-year Computer Science student specializing in Data Science at the Cambodia Academy of Digital Technology (CADT). I'm passionate about applying data-driven solutions to challenges in healthcare and education.
+A Third-year Computer Science student specializing in Data Science at the Cambodia Academy of Digital Technology (CADT). I'm passionate about applying data-driven solutions to challenges in healthcare and education.
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PichSereyVathanak&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
